@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me rowoa002@gmail.com
 - 😄 Pronouns: Him
-- ⚡ Fun fact: 2000 Honda NSR 125 R Supersprint
+- ⚡ Fun fact: 2000 Honda NSR 125 Supersprint
 
 <!---
 Wongpheng/Wongpheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
